@@ -49,7 +49,7 @@ return [
         'payment_method'              => 'طريقة الدفع',
         'now'                         => 'الآن',
         'balance'                     => 'الرصيد',
-        'advance'                     => 'مقدم',
+        'advance'                     => 'متقدم',
         'all_roles'                   => 'جميع الأدوار',
         'all_users'                   => 'جميع المستخدمين',
         'user'                        => 'المستخدم',
